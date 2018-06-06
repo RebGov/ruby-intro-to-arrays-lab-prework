@@ -11,5 +11,5 @@ def first_element(array)
 end
 
 def third_element(array)
-  array[2]
+  my_thrid_element_array[2]
 end
